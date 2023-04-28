@@ -46,7 +46,20 @@
         {"id": 1, "name":"O Terrivel", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
       ]
-    }
+    },
+    {
+      "id":6,
+      "question": "Repetindo respostas para testar.",
+      "options":[
+        {"id": 1, "name":"O Terrivel", "alias":"A"},
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      ]
+    },
+    "id":7,
+      "question": "Mais repetição de respostas":[
+        {"id": 1, "name":"O Terrivel", "alias":"A"},
+        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      ]
   ],
   "results":{
     "A": "Você muito provavelmente seria um super vilão!",
